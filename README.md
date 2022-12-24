@@ -7,7 +7,7 @@
 
 <div align="center">
   <br/>
-  <h2>Entre em contato</h2>
+  <h2>Get in touch</h2>
   <br/>
   <a href = "mailto:lorenammpaula@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lorena-martiniana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
@@ -19,7 +19,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lorenammp&bg_color=0d1117&color=fd367e&line=00faac&point=fd367e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
-  <h2>Tecnologias que mais utilizo</h2>
+  <h2>My current stack</h2>
   <br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" target="_blank">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="border-radius: 30px" alt="CSS3" target="_blank">
