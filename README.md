@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lorenammp)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lorenammp&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
   <h2>My current stack</h2>
